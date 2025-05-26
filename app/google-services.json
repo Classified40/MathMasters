@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338574930494",
+    "project_id": "mathmasters-fb2ae",
+    "storage_bucket": "mathmasters-fb2ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338574930494:android:33ea7892be4cd6852ed76f",
+        "android_client_info": {
+          "package_name": "com.example.mathmasters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9n2tmd0lONOrK5XQOvwE_FobcRqT_UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
